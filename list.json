@@ -1,0 +1,135 @@
+{
+    "totalPages": 86,
+    "datamaps": [
+        {
+            "id": 32585,
+            "type": "dataset",
+            "title": "고속도로 하이패스 이용 구간별 교통 데이터(DSRC 기준)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32583,
+            "type": "dataset",
+            "title": "고속도로 차량감지장치(VDS) 오류 및 장애 데이터",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32581,
+            "type": "dataset",
+            "title": "전국 고속도로 공사(작업) 계획 및 상태 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32579,
+            "type": "dataset",
+            "title": "공사(작업) 기간 및 고속도로 차단 데이터",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32569,
+            "type": "dataset",
+            "title": "고속도로 진출입(출발지, 목적지)별 교통 소통 통계 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32568,
+            "type": "dataset",
+            "title": "고속도로(출발지 및 목적지)간 통행속도 및 교통량 통계 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32567,
+            "type": "dataset",
+            "title": "VDS기반 고속도로 지점별 교통 소통 통계 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32566,
+            "type": "dataset",
+            "title": "고속도로 콘존 및 차로유형별 교통 소통 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32565,
+            "type": "dataset",
+            "title": "고속도로 이용차량 통행거리별 교통량 통계 데이터(1일 단위)",
+            "issued": "2020-08-18",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        },
+        {
+            "id": 32562,
+            "type": "dataset",
+            "title": "VDS기반 고속도로 지점별 교통 소통 통계 데이터(5분 단위)",
+            "issued": "2020-08-17",
+            "viewCount": 0,
+            "downloadCount": 0,
+            "platform": {
+                "id": 4,
+                "title": "교통",
+                "code": "traffic"
+            }
+        }
+    ]
+}
