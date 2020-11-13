@@ -9,7 +9,7 @@
 - API 요청 테스트
   - 메타데이터 목록 조회 (platformId 값을 입력시 해당 플랫폼의 메타데이터가 제외된 조회)
     
-      $ curl -X POST \
+      $ curl -X GET \
         http://115.85.181.22:8080/api/resources/list?title=고속&platformId=1
     
   - 메타데이터 상세내용 조회 (id 속성값 기준으로 상세내용 조회)
